@@ -4,15 +4,15 @@
 <br>
 <a href="https://github.com/DarkMod3">
     <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
-    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+x4izy!;Seja+bem-vindo(a)+ao+meu+perfil."/>
+    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+doka!;Seja+bem-vindo(a)+ao+meu+perfil."/>
 </a>
 <br>
 <p align="center">
-    <a href="https://DarkMod3.github.io"><img width="8%" alt="Website" title="Website" src="https://i.imgur.com/KWGHpPv.png"/></a>
+    <a href="https://github.com/x4izy"><img width="8%" alt="Website" title="Website" src="https://i.imgur.com/KWGHpPv.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://steamcommunity.com/id/Dark-Mode"><img width="8%" alt="Steam" title="Steam" src="https://i.imgur.com/7oDaYeL.png"/></a>
+    <a href="https://steamcommunity.com/profiles/76561199211807408/"><img width="8%" alt="Steam" title="Steam" src="https://i.imgur.com/7oDaYeL.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.twitch.tv/DarkModeLIVES"><img width="7%" alt="Twitch" title="Twitch" src="https://i.imgur.com/7UVLsSs.png"/></a>
+    <a href="https://www.twitch.tv/dokaneurotico"><img width="7%" alt="Twitch" title="Twitch" src="https://i.imgur.com/7UVLsSs.png"/></a>
 </p>
 
 <br><br><br>

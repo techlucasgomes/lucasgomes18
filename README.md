@@ -74,7 +74,7 @@ Me chamo Lucas Gomes Pereira, tenho 18 anos e sou natural de São Vicente Conclu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
-    align="left" 
+    align="left" ola
     alt="Python" 
     title="Python"
     width="30px" 

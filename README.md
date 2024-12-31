@@ -1,59 +1,106 @@
-<p align="center">
-    ‹ Este perfil só funciona no tema escuro do GitHub ›
+# 👩🏻‍💻 Lucas Gomes
+
+**`Desenvolvedor FullStack`**
+
+Me chamo Lucas Gomes Pereira, tenho 18 anos e sou natural de São Vicente Concluí o ensino médio na Fortec, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniSanta.
+
+<p align="left">
+    <a href="https://github.com/x4izy?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/x4izy?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/x4izy">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/x4izy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
-<br>
-<a href="https://github.com/DarkMod3">
-    <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
-    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+doka!;Seja+bem-vindo(a)+ao+meu+perfil."/>
-</a>
-<br>
-<p align="center">
-    <a href="https://github.com/x4izy"><img width="8%" alt="Website" title="Website" src="https://i.imgur.com/KWGHpPv.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://steamcommunity.com/profiles/76561199211807408/"><img width="8%" alt="Steam" title="Steam" src="https://i.imgur.com/7oDaYeL.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.twitch.tv/dokaneurotico"><img width="7%" alt="Twitch" title="Twitch" src="https://i.imgur.com/7UVLsSs.png"/></a>
-</p>
-
-<br><br><br>
-
-```zsh
-> neofetch
-```
-
-<a href="#"><img align="left" src="https://media.discordapp.net/attachments/1314293627329056870/1317625055185866855/download.jpg?ex=675f5d75&is=675e0bf5&hm=433f3108c51f173ee75bf6180fac5e124de7ce3db637810de32d6fb5f616c9e1&=&format=webp" width="200"/> 
-
-
-```lua
-</x4izy>
-▔▔▔▔▔▔▔▔
-OS: Windows 11 x64
-Shell: Windows Terminal
-Pronouns: Ele/Dele
-Location: Brasil, SP
-Learning: JavaScript, HTML, Python
-Languages: Nenhuma
-Hobbies: Cheating in Sites, Sleep, Programming
-```
-
-<br><br>
 
 ---
 
-<br><br>
+### 🤖 Linguagens e Tecnologias
 
-<p align="center"><strong>GitHub Status</strong></p>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
+<br/>
+<br/>
 
+### 📊 Estatísticas
 
-<br>
-<p align="center">
-    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fx4izy"/></a>
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=x4izy&style=for-the-badge&label=Views:&color=gray"/></a>
-    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/x4izy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=x4izy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=x4izy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-<a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
-</a>
-
-

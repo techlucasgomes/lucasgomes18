@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Gomes Pereira, tenho 18 anos e sou natural de São Vicente Concluí o ensino médio na Fortec, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unip.
+Me chamo Lucas Gomes Pereira, tenho 18 anos e sou natural de São Vicente. Concluí o ensino médio na Fortec, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unip.
 
 <p align="left">
     <a href="https://github.com/x4izy?tab=repositories&sort=stargazers">

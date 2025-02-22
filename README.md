@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Gomes
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=lucasgomes18&color=006bed)
 
 ## Sobre mim
 

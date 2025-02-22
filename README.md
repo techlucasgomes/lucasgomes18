@@ -6,7 +6,7 @@
 
 - 💼 Desenvolvedor Front-end.
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas na UNIP.
-- 🌱 Aprendendo mais sobre: Java, Python.
+- 🌱 Estudando: Java, Python.
 
 ## Minhas Skills
 

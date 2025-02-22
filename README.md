@@ -5,7 +5,7 @@
 ## Sobre mim
 
 - 💼 Desenvolvedor Front-end.
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas na UNIP.
+- 🎓 Cursando Analise e Desenvolvimento de Sistemas na UNIP.
 - 🌱 Aprendendo mais sobre: Java, Python.
 
 ## Minhas Skills

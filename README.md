@@ -39,6 +39,6 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgomes18/)](https://www.linkedin.com/in/lucasgomes18/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-techlucasgomes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:techlucasgomes@gmail.com)](techlucasgomes@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/lucasgomes18?label=follow&style=social)](https://www.linkedin.com/in/lucasgomes18/)
 

@@ -33,12 +33,12 @@
 <br/>
 
 <a href="https://github.com/lucasgomes18" title="Perfil de Lucas Gomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgomes18&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgomes18/)](https://www.linkedin.com/in/lucasgomes18/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/lucasgomes18?label=follow&style=social)](LINK-DO-SEU-GITHUB](https://github.com/lucasgomes18)
+[![GitHub](https://img.shields.io/github/followers/lucasgomes18?label=follow&style=social)](https://www.linkedin.com/in/lucasgomes18/)
 

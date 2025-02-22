@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Gomes
 
-![](https://komarev.com/ghpvc/?username=lucasgomes18&color=006bed)
+![](https://komarev.com/ghpvc/?username=techlucasgomes&color=006bed)
 
 ## Sobre mim
 
@@ -34,13 +34,13 @@
 
 <br/>
 
-<a href="https://github.com/lucasgomes18" title="Perfil de Lucas Gomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgomes18&theme=dracula&show_icons=true" />
+<a href="https://github.com/techlucasgomes" title="Perfil de Lucas Gomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techlucasgomes&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-lucasgomes18-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgomes18/)](https://www.linkedin.com/in/lucasgomes18/)
+[![Linkedin](https://img.shields.io/badge/-techlucasgomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/techlucasgomes/)](https://www.linkedin.com/in/techlucasgomes/)
 [![Gmail Badge](https://img.shields.io/badge/-techlucasgomes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:techlucasgomes@gmail.com)](techlucasgomes@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/lucasgomes18?label=follow&style=social)](https://github.com/lucasgomes18/)
+[![GitHub](https://img.shields.io/github/followers/techlucasgomes?label=follow&style=social)](https://github.com/techlucasgomes/)
 

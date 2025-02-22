@@ -39,5 +39,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-lucasgomes18-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgomes18/)](https://www.linkedin.com/in/lucasgomes18/)
 [![Gmail Badge](https://img.shields.io/badge/-techlucasgomes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:techlucasgomes@gmail.com)](techlucasgomes@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/lucasgomes18?label=follow&style=social)](https://www.linkedin.com/in/lucasgomes18/)
+[![GitHub](https://img.shields.io/github/followers/lucasgomes18?label=follow&style=social)](https://github.com/lucasgomes18/)
 
